@@ -38,6 +38,7 @@
   "dependencies": {
     "debug": "^4.4.1",
     "got": "^14.4.7",
+    "hpagent": "^1.2.0",
     "jsonfile": "^6.1.0",
     "rc": "^1.2.8"
   },
