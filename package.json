@@ -39,7 +39,9 @@
     "debug": "^4.4.1",
     "got": "^14.4.7",
     "hpagent": "^1.2.0",
+    "https-proxy-agent": "^7.0.6",
     "jsonfile": "^6.1.0",
+    "proxy-agent": "^6.5.0",
     "rc": "^1.2.8"
   },
   "devDependencies": {
