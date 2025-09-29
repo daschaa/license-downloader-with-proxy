@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.6.1](https://github.com/daschaa/license-downloader-with-proxy/compare/v1.6.0...v1.6.1) (2025-09-29)
+
+### Bug Fixes
+
+- agent on correct level ([2ab1a62](https://github.com/daschaa/license-downloader-with-proxy/commit/2ab1a62e7eaae37a9bda6f304f5f50141a1b83b5))
+
 ## [1.6.0](https://github.com/daschaa/license-downloader-with-proxy/compare/v1.5.0...v1.6.0) (2025-09-29)
 
 ### Features
