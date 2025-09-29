@@ -1,6 +1,6 @@
 {
   "name": "license-downloader-with-proxy",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Download the license files of the dependencies of a project",
   "main": "index.js",
   "bin": {
